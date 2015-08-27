@@ -59,17 +59,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdditinalHandicap.cs" />
-    <Compile Include="Card.cs" />
-    <Compile Include="Course.cs" />
+    <Compile Include="Calc\AdditinalHandicap.cs" />
+    <Compile Include="Calc\Calculate.cs" />
+    <Compile Include="Calc\Card.cs" />
+    <Compile Include="Calc\Course.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Hole.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="Calc\Hole.cs" />
+    <Compile Include="Calc\Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

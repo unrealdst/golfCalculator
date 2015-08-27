@@ -1,0 +1,15 @@
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\LinqToExcel.dll
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\Remotion.dll
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\LinqToExcel.xml
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\bin\Debug\log4net.xml
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\GolfCalc.csproj.GenerateResource.Cache
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
