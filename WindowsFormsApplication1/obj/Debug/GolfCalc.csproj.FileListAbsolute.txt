@@ -13,3 +13,4 @@ C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\
 C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\GolfCalc.csproj.GenerateResource.Cache
 C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cebulotron3000\Dysk Google\GolfCalc\WindowsFormsApplication1\obj\Debug\GolfCalc.csprojResolveAssemblyReference.cache

@@ -30,28 +30,32 @@ namespace WindowsFormsApplication1
                 case ("Stableford Brutto"):
                     for (int i = 0; i < result.standsStablefordBrutto.Count(); i++)
                     {
-                        stands.Add(String.Format("{0}:{1}", result.standsStablefordBrutto[i].name, result.standsStablefordBrutto[i].finalScoreStableFordBrutto));
+                        Player tempPLayer = result.standsStablefordBrutto[i];
+                        stands.Add(String.Format(@"{1} :({2} {0}", tempPLayer.name, tempPLayer.finalScoreStableFordBrutto, (tempPLayer.handicap + (tempPLayer.handicap > 9 ? ")" : ")  "))));
                     }
                     break;
 
                 case ("Stableford Netto"):
                     for (int i = 0; i < result.standsStablefordNetto.Count(); i++)
                     {
-                        stands.Add(String.Format("{0}:{1}", result.standsStablefordNetto[i].name, result.standsStablefordNetto[i].finalScoreStableFordNetto));
+                        Player tempPLayer = result.standsStablefordNetto[i];
+                        stands.Add(String.Format(@"{1} :({2} {0}", tempPLayer.name, tempPLayer.finalScoreStableFordBrutto, (tempPLayer.handicap + (tempPLayer.handicap > 9 ? ")" : ")  "))));
                     }
                     break;
 
                 case ("Strokeplay Brutto"):
                     for (int i = 0; i < result.standsStrokeplayBrutto.Count(); i++)
                     {
-                        stands.Add(String.Format("{0}:{1}", result.standsStrokeplayBrutto[i].name, result.standsStrokeplayBrutto[i].FinalScoreStrokePlayBrutto));
+                        Player tempPLayer = result.standsStrokeplayBrutto[i];
+                        stands.Add(String.Format(@"{1} :({2} {0}", tempPLayer.name, tempPLayer.finalScoreStableFordBrutto, (tempPLayer.handicap + (tempPLayer.handicap > 9 ? ")" : ")  "))));
                     }
                     break;
 
                 case ("Strokeplay Netto"):
                     for (int i = 0; i < result.standsStrokeplayNetto.Count(); i++)
                     {
-                        stands.Add(String.Format("{0}:{1}", result.standsStrokeplayNetto[i].name, result.standsStrokeplayNetto[i].FinalScoreStrokePlaynetto));
+                        Player tempPLayer = result.standsStrokeplayNetto[i];
+                        stands.Add(String.Format(@"{1} :({2} {0}", tempPLayer.name, tempPLayer.finalScoreStableFordBrutto, (tempPLayer.handicap + (tempPLayer.handicap > 9 ? ")" : ")  "))));
                     }
                     break;
             }
